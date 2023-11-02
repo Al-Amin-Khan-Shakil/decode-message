@@ -23,9 +23,9 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [ Decode a Morse code message ] <a name="about-project"></a>
+# 📖 DECODE MESSAGE"></a>
 
-**[ Decode a Morse code message ]**  project that is part of the Microverse Ruby curriculum. The project is to build a method that takes a morse code as an input and returns the decoded massage. The project is built with Ruby.
+**Decode Message**  project is to build a ruby method that takes a morse code as an input and returns the decoded massage.
 
 ## 🛠 Built With <a name="built-with"></a>
 - ✅ Ruby
@@ -44,8 +44,8 @@
 
 ### Key Features <a name="key-features"></a>
 
-- 🔰 **[ Decode a character based on Morse Decoding ]**
-- 🔰 **[ Decode a word based on Morse Decoding ]**
+- 🔰 **Decode a character based on Morse Decoding**
+- 🔰 **Decode a word based on Morse Decoding**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -55,7 +55,7 @@
 
 **To get a local copy up and running, follow these steps.**
 
-1. Download or clone this [repostory](https://github.com/sadaf-Daneshgar/decode_morse_code.git).
+1. Download or clone this [repostory](https://github.com/Al-Amin-Khan-Shakil/decode-message).
 2. Provide a modern web browser.
 
 ### Prerequisites
@@ -72,13 +72,13 @@
 
 ### Setup
 
-- Clone this [repository](https://github.com/sadaf-Daneshgar/decode_morse_code) to your desired folder:
+- Clone this [repository](https://github.com/Al-Amin-Khan-Shakil/decode-message) to your desired folder:
 
 - Example commands:
 
 ```sh
   cd [YOUR FOLDER]
-  git clone https://github.com/sadaf-Daneshgar/decode_morse_code.git
+  git clone https://github.com/Al-Amin-Khan-Shakil/decode-message
 ```
 
 ### Usage
@@ -87,7 +87,7 @@
 
 ```sh
  cd [YOUR FOLDER]
- git clone https://github.com/sadaf-Daneshgar/decode_morse_code.git
+ git clone https://github.com/Al-Amin-Khan-Shakil/decode-message
 ```
 
 ### Deployment
@@ -100,11 +100,12 @@
 
 ## 👥 Authors <a name="authors"></a>
 
-👤 **Sadaf Daneshgar**
+👤 **Al Amin Khan Shakil**
 
-- 👤 GitHub: [@Sadaf-Daneshgar](https://github.com/sadaf-Daneshgar)
-- 👤 Twitter: [@SadafDaneshgar](https://twitter.com/SadafDaneshgar)
-- 👤 LinkedIn: [Sadaf Daneshgar](https://www.linkedin.com/in/sadaf-daneshgar-2002saba/)
+- GitHub: [Al Amin Khan Shakil](https://github.com/Al-Amin-Khan-Shakil)
+- Twitter: [Al Amin Khan Shakil](https://twitter.com/AlAminKhan85004)
+- LinkedIn: [Al Amin Khan Shakil](https://www.linkedin.com/in/al-amin-khan-shakil/)
+
 
 👤 **Manezeu Patricia**
 
@@ -118,9 +119,9 @@
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **[ Decode word ]**
-- [ ] **[ Decode character ]**
-- [ ] **[ Decode the whole message ]**
+- **Decode word**
+- **Decode character**
+- **Decode the whole message**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -130,7 +131,7 @@
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/sadaf-Daneshgar/decode_morse_code/issues).
+Feel free to check the [issues page](https://github.com/Al-Amin-Khan-Shakil/decode-message/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -138,7 +139,7 @@ Feel free to check the [issues page](https://github.com/sadaf-Daneshgar/decode_m
 
 ## ⭐️ Show your support <a name="support"></a>
 
-If you like this project, kindly drop a start ⭐️ for the [repository](https://github.com/sadaf-Daneshgar/decode_morse_code);
+If you like this project, kindly drop a start ⭐️ for the [repository](https://github.com/Al-Amin-Khan-Shakil/decode-message);
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -146,9 +147,7 @@ If you like this project, kindly drop a start ⭐️ for the [repository](https:
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-**I would like to thank the following individuals and organizations for their contribution to this project.**
-
-- I would like to express my heartfelt gratitude to [**Microvere**](https://www.microverse.org/?grsf=mohammad-a-nbtazu) for the invaluable learning experience they have provided. 
+ I would like to express my heartfelt gratitude to **Microvere** for the invaluable learning experience they have provided. 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
