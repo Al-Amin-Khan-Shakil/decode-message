@@ -106,11 +106,11 @@
 - 👤 Twitter: [@SadafDaneshgar](https://twitter.com/SadafDaneshgar)
 - 👤 LinkedIn: [Sadaf Daneshgar](https://www.linkedin.com/in/sadaf-daneshgar-2002saba/)
 
-👤 **Ye Min Thu**
+👤 **Manezeu Patricia**
 
-- GitHub: [@githubhandle](https://github.com/mryeminthu)
-- Twitter: [@twitterhandle](https://twitter.com/mryeminthu)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/ye-min-thu-76456a214/)
+- GitHub: [@githubhandle](https://github.com/patriciachrysy)
+- Twitter: [@twitterhandle](https://github.com/patriciachrysy)
+- LinkedIn: [LinkedIn](https://github.com/patriciachrysy)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
